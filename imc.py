@@ -13,7 +13,8 @@ def show_entry_fields():
     except Exception as ex:
         print(ex) 
     print("Peso: %s\nAltura: %s" % (eWeight.get(), eHeight.get()))
-
+    
+    # https://brasilescola.uol.com.br/saude-na-escola/Indice-massa-corporea-imc.htm
     situation = ""
     if imc < 18.5:
         situation = "subpeso"
