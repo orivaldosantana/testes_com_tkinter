@@ -9,6 +9,7 @@ Código para uma demonstração didática da construção de um aplicativo simpl
 
 ## Referências 
 
-https://docs.python.org/3/library/tkinter.html# 
-https://python-course.eu/tkinter_labels.php 
+* https://docs.python.org/3/library/tkinter.html# 
+* https://python-course.eu/tkinter_labels.php 
+* https://tkdocs.com/shipman/control-variables.html
 
